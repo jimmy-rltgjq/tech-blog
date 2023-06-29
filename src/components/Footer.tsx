@@ -10,12 +10,13 @@ export default function Footer() {
       <Container>
         <div className="border-t color-border-slate-200 flex flex-col-reverse md:flex-row gap-6 py-6 items-center">
           <div className="flex gap-4 items-center place-content-center">
-            <GatsbyLink to="https://juxtdesign.cc">
+            <p>Design by <a target="_blank" href="https://juxtdesign.cc/">@juxtdesign</a></p>
+            {/* <GatsbyLink to="https://juxtdesign.cc">
               <img src={Logo} alt="Logo" className="w-10 hover:opacity-9" />
             </GatsbyLink>
             <p>
               © {new Date().getFullYear()} {COPYRIGHT}
-            </p>
+            </p> */}
           </div>
           <ul className="list-style-none flex gap-6 justify-between md:">
             {FOOTER.map((item) => (
