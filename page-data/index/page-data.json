@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-tsx",
+    "path": "/",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"fields":{"date":"29 Jun 2023","title":"TEST","slug":"test","category":"notes","categorySlug":"/category/notes/","tagSlugs":["/tag/tag-test/"],"stage":"seedling"},"excerpt":"테스트입니다.","frontmatter":{"title":"TEST","date":"2023-06-29T00:00:00.000Z","category":null,"tags":["TAG_TEST"],"featured":null,"socialImage":null}}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
