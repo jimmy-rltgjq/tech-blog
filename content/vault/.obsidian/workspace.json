@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "391077f03af7ffc2",
+        "id": "010bab69f1dd9f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "1b466e0f1638acd5",
+            "id": "492670742a7500a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,8 +118,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1b466e0f1638acd5",
+  "active": "492670742a7500a2",
   "lastOpenFiles": [
+    "test.md",
     "Changelog.md",
     "Getting Started.md",
     "Design OKR.md",

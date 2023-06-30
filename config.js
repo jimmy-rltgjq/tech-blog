@@ -1,6 +1,6 @@
 module.exports = {
   url: "https://notes.desktopofsamuel.com",
-  pathPrefix: "",
+  pathPrefix: "/tech-blog",
   SITE_TITLE: "GARDEN SEVEN7",
   SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
   SITE_DESCRIPTION:
