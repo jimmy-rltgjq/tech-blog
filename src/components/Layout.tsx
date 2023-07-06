@@ -12,6 +12,7 @@ import {
 } from "../../config";
 import { Helmet } from "react-helmet";
 
+
 const Layout: React.FC = ({
   children,
   title,
@@ -24,6 +25,8 @@ const Layout: React.FC = ({
   const pageTitle = title || SITE_TITLE;
   const pageDescription = description || SITE_DESCRIPTION;
   const pageKeywords = keywords || KEYWORDS;
+
+
   return (
     <div>
       {full ? (

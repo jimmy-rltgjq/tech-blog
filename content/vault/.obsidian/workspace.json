@@ -11,8 +11,12 @@
             "id": "492670742a7500a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic JS - Var, Let, Const 차이 잘 아시나요?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic JS - Var, Let, Const 차이 잘 아시나요?.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
   "active": "492670742a7500a2",
   "lastOpenFiles": [
     "test.md",
+    "Basic JS - Var, Let, Const 차이 잘 아시나요?.md",
     "Changelog.md",
     "Getting Started.md",
     "Design OKR.md",
